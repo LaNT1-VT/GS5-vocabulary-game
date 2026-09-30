@@ -1,0 +1,227 @@
+[
+  {
+    "id": "GS5_apple",
+    "image": "image1/GS5_apple.jpg",
+    "audio": "audio1/GS5_apple.mp3"
+  },
+  {
+    "id": "GS5_banana",
+    "image": "image1/GS5_banana.jpg",
+    "audio": "audio1/GS5_banana.mp3"
+  },
+  {
+    "id": "GS5_beans",
+    "image": "image1/GS5_beans.jpg",
+    "audio": "audio1/GS5_beans.mp3"
+  },
+  {
+    "id": "GS5_beet",
+    "image": "image1/GS5_beet.jpg",
+    "audio": "audio1/GS5_beet.mp3"
+  },
+  {
+    "id": "GS5_behind",
+    "image": "image1/GS5_behind.jpg",
+    "audio": "audio1/GS5_behind.mp3"
+  },
+  {
+    "id": "GS5_broccoli",
+    "image": "image1/GS5_broccoli.jpg",
+    "audio": "audio1/GS5_broccoli.mp3"
+  },
+  {
+    "id": "GS5_cabbage",
+    "image": "image1/GS5_cabbage.jpg",
+    "audio": "audio1/GS5_cabbage.mp3"
+  },
+  {
+    "id": "GS5_car",
+    "image": "image1/GS5_car.jpg",
+    "audio": "audio1/GS5_car.mp3"
+  },
+  {
+    "id": "GS5_cherries",
+    "image": "image1/GS5_cherries.jpg",
+    "audio": "audio1/GS5_cherries.mp3"
+  },
+  {
+    "id": "GS5_chestnut",
+    "image": "image1/GS5_chestnut.jpg",
+    "audio": "audio1/GS5_chestnut.mp3"
+  },
+  {
+    "id": "GS5_corn",
+    "image": "image1/GS5_corn.jpg",
+    "audio": "audio1/GS5_corn.mp3"
+  },
+  {
+    "id": "GS5_cucumber",
+    "image": "image1/GS5_cucumber.jpg",
+    "audio": "audio1/GS5_cucumber.mp3"
+  },
+  {
+    "id": "GS5_cut",
+    "image": "image1/GS5_cut.jpg",
+    "audio": "audio1/GS5_cut.mp3"
+  },
+  {
+    "id": "GS5_day (night)",
+    "image": "image1/GS5_day (night).jpg",
+    "audio": "audio1/GS5_day (night).mp3"
+  },
+  {
+    "id": "GS5_fall",
+    "image": "image1/GS5_fall.jpg",
+    "audio": "audio1/GS5_fall.mp3"
+  },
+  {
+    "id": "GS5_flower",
+    "image": "image1/GS5_flower.jpg",
+    "audio": "audio1/GS5_flower.mp3"
+  },
+  {
+    "id": "GS5_fox",
+    "image": "image1/GS5_fox.jpg",
+    "audio": "audio1/GS5_fox.mp3"
+  },
+  {
+    "id": "GS5_fruit",
+    "image": "image1/GS5_fruit.jpg",
+    "audio": "audio1/GS5_fruit.mp3"
+  },
+  {
+    "id": "GS5_grapes",
+    "image": "image1/GS5_grapes.jpg",
+    "audio": "audio1/GS5_grapes.mp3"
+  },
+  {
+    "id": "GS5_grow (grew)",
+    "image": "image1/GS5_grow (grew).jpg",
+    "audio": "audio1/GS5_grow (grew).mp3"
+  },
+  {
+    "id": "GS5_hang",
+    "image": "image1/GS5_hang.jpg",
+    "audio": "audio1/GS5_hang.mp3"
+  },
+  {
+    "id": "GS5_jump rope",
+    "image": "image1/GS5_jump rope.jpg",
+    "audio": "audio1/GS5_jump rope.mp3"
+  },
+  {
+    "id": "GS5_kiwi",
+    "image": "image1/GS5_kiwi.jpg",
+    "audio": "audio1/GS5_kiwi.mp3"
+  },
+  {
+    "id": "GS5_lemon",
+    "image": "image2/GS5_lemon.jpg",
+    "audio": "audio2/GS5_lemon.mp3"
+  },
+  {
+    "id": "GS5_lettuce",
+    "image": "image2/GS5_lettuce.jpg",
+    "audio": "audio2/GS5_lettuce.mp3"
+  },
+  {
+    "id": "GS5_melon",
+    "image": "image2/GS5_melon.jpg",
+    "audio": "audio2/GS5_melon.mp3"
+  },
+  {
+    "id": "GS5_mud",
+    "image": "image2/GS5_mud.jpg",
+    "audio": "audio2/GS5_mud.mp3"
+  },
+  {
+    "id": "GS5_numbers",
+    "image": "image2/GS5_numbers.jpg",
+    "audio": "audio2/GS5_numbers.mp3"
+  },
+  {
+    "id": "GS5_onion",
+    "image": "image2/GS5_onion.jpg",
+    "audio": "audio2/GS5_onion.mp3"
+  },
+  {
+    "id": "GS5_orange",
+    "image": "image2/GS5_orange.jpg",
+    "audio": "audio2/GS5_orange.mp3"
+  },
+  {
+    "id": "GS5_peach",
+    "image": "image2/GS5_peach.jpg",
+    "audio": "audio2/GS5_peach.mp3"
+  },
+  {
+    "id": "GS5_pear",
+    "image": "image2/GS5_pear.jpg",
+    "audio": "audio2/GS5_pear.mp3"
+  },
+  {
+    "id": "GS5_piano",
+    "image": "image2/GS5_piano.jpg",
+    "audio": "audio2/GS5_piano.mp3"
+  },
+  {
+    "id": "GS5_pie",
+    "image": "image2/GS5_pie.jpg",
+    "audio": "audio2/GS5_pie.mp3"
+  },
+  {
+    "id": "GS5_pineapple",
+    "image": "image2/GS5_pineapple.jpg",
+    "audio": "audio2/GS5_pineapple.mp3"
+  },
+  {
+    "id": "GS5_potato",
+    "image": "image2/GS5_potato.jpg",
+    "audio": "audio2/GS5_potato.mp3"
+  },
+  {
+    "id": "GS5_pumpkin",
+    "image": "image2/GS5_pumpkin.jpg",
+    "audio": "audio2/GS5_pumpkin.mp3"
+  },
+  {
+    "id": "GS5_round",
+    "image": "image2/GS5_round.jpg",
+    "audio": "audio2/GS5_round.mp3"
+  },
+  {
+    "id": "GS5_smile",
+    "image": "image2/GS5_smile.jpg",
+    "audio": "audio2/GS5_smile.mp3"
+  },
+  {
+    "id": "GS5_strawberry",
+    "image": "image2/GS5_strawberry.jpg",
+    "audio": "audio2/GS5_strawberry.mp3"
+  },
+  {
+    "id": "GS5_tomato",
+    "image": "image2/GS5_tomato.jpg",
+    "audio": "audio2/GS5_tomato.mp3"
+  },
+  {
+    "id": "GS5_vegetables",
+    "image": "image2/GS5_vegetables.jpg",
+    "audio": "audio2/GS5_vegetables.mp3"
+  },
+  {
+    "id": "GS5_wait",
+    "image": "image2/GS5_wait.jpg",
+    "audio": "audio2/GS5_wait.mp3"
+  },
+  {
+    "id": "GS5_watermelon",
+    "image": "image2/GS5_watermelon.jpg",
+    "audio": "audio2/GS5_watermelon.mp3"
+  },
+  {
+    "id": "GS5_wave",
+    "image": "image2/GS5_wave.jpg",
+    "audio": "audio2/GS5_wave.mp3"
+  }
+]
